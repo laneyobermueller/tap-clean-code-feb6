@@ -10,6 +10,7 @@
 - Testing
     - TDD
         - Install pytest
+            - > pip install pytest
         - run test
     - Learn about PEP 8 - Style guid [https://peps.python.org/pep-0008/]
     - Refactor b_fns.py
